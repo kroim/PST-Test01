@@ -1,2 +1,2 @@
-# Factory Contract BSC TESTNET
-[0x1e023F6A222894a27E31c8ed92A3C16FA1C21B8b](https://testnet.bscscan.com/address/0x1e023F6A222894a27E31c8ed92A3C16FA1C21B8b#contracts)
+# Router Contract BSC TESTNET
+[0xF9e5E8cFf23ec14e9570ECedE5bdd052EcFB7948](https://testnet.bscscan.com/address/0xF9e5E8cFf23ec14e9570ECedE5bdd052EcFB7948#readContract)
